@@ -45,8 +45,8 @@ Screenshot
 
    ```
    GATSBY_FLOTIQ_BASE_URL=https://api.flotiq.com
-   GATSBY_FLOTIQ_API_KEY=YOUR FLOTIQ API KEY
-   SNIPCART_API_KEY=YOUR SNIPCART PUBLIC API KEY
+   GATSBY_FLOTIQ_API_KEY=Y2b6b3b463603199c43ba55bf1bfc43c5
+   SNIPCART_API_KEY=YjUwMjdiY2EtYWM5YS00NWM5LTgxMTAtZjA4ZDk1MmJiODViNjM3Mjc2ODY1MzIxNTUzMDc4
    ```
 
 1.  **Start developing.**
@@ -88,11 +88,11 @@ Screenshot
 
   You can deploy this project to Heroku in 3 minutes:
 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/flotiq/gatsby-starter-products)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Jordankoerner/gatsby-starter-products)
 
   Or to Netlify:
 
-  [![Deploy](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/flotiq/gatsby-starter-products)
+  [![Deploy](https://www.netlify.com/img/deploy/button.svg)](https://github.com/Jordankoerner/gatsby-starter-products)
 
 
 ## Collaborating
